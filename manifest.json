@@ -1,0 +1,10 @@
+{
+  "id": "git-follow",
+  "name": "Git Follow",
+  "version": "0.1.0",
+  "minAppVersion": "1.14.0",
+  "description": "Point the Git plugin at the repository of the active note, in a vault that holds several.",
+  "author": "Phorcys",
+  "authorUrl": "https://github.com/Ophiase",
+  "isDesktopOnly": true
+}
